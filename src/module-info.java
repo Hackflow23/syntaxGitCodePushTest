@@ -1,0 +1,2 @@
+module SyntaxGitTestProject {
+}
